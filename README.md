@@ -18,7 +18,7 @@ The analysis is intended to help explore:
 - How average incident resolution time varies by defense mechanism.
 ## 📊 Dashboard Preview
 
-![Global Cybersecurity Threat Analysis Dashboard](dashboard-preview.png)
+![Global Cybersecurity Threat Analysis Dashboard](Screenshot 2026-11-24 002805.png)
 ## 🎯 Project Objectives
 
 1. Explore global cybersecurity incident patterns.
