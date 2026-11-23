@@ -16,7 +16,9 @@ The analysis is intended to help explore:
 - How incident counts vary by year.
 - How incidents are distributed across reported attack sources.
 - How average incident resolution time varies by defense mechanism.
+## 📊 Dashboard Preview
 
+![Global Cybersecurity Threat Analysis Dashboard](dashboard-preview.png)
 ## 🎯 Project Objectives
 
 1. Explore global cybersecurity incident patterns.
