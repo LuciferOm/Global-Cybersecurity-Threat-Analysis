@@ -4,7 +4,7 @@ An **Advanced Microsoft Excel data analytics project** that explores global cybe
 
 > **Dashboard preview:** The image below is a visual preview generated from the workbook's `Raw_Data` sheet. Open the Excel workbook to explore the original dashboard and its interactive elements.
 
-![Global Cybersecurity Threat Analysis Dashboard](dashboard-preview.png)
+![Global Cybersecurity Threat Analysis Dashboard](Screenshot 2026-11-24 002805.png)
 
 ## 📌 Project Overview
 
@@ -17,8 +17,9 @@ The analysis is intended to help explore:
 - How incidents are distributed across reported attack sources.
 - How average incident resolution time varies by defense mechanism.
 ## 📊 Dashboard Preview
-
-![Global Cybersecurity Threat Analysis Dashboard](Screenshot 2026-11-24 002805.png)
+<p align="center">
+  <img src="Screenshot%202026-11-24%20002805.png" alt="Global Cybersecurity Threat Analysis Dashboard" width="100%">
+</p>
 ## 🎯 Project Objectives
 
 1. Explore global cybersecurity incident patterns.
